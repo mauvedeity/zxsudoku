@@ -1,5 +1,5 @@
 10 REM ZXSudoku
 20 REM
-30 PRINT AT 10,10 "ZXSudoku"
+30 PRINT AT 10,10;"ZXSudoku"
 40 PAUSE 60
 
